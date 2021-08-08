@@ -1,0 +1,4 @@
+[[metadata.githubassets]]
+repo = "sclevine/yj"
+asset = "yj-linux"
+destination = "bin/yj"
